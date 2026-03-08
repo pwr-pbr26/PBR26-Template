@@ -1,6 +1,6 @@
 # PBR26 - Szablon Projektu AI/ML
 
-Szablon dla zespołów realizujących Projekty Badawczo-Rozwojowe.
+Szablon dla zespołów realizujących projekty w ramach grupy kursów Projekt Badawczo-Rozwojowy w Inzynierii Oprogramowania.
 Zarządzanie zależnościami: `uv`. Uruchamianie zadań: `just`.
 
 ## 🚀 Szybki start
