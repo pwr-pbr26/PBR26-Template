@@ -1,0 +1,24 @@
+[project]
+name = "pbr26-project"
+version = "0.1.0"
+description = "Projekt Badawczo-Rozwojowy AI/ML"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "torch",
+    "matplotlib",
+    "jupyter",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
